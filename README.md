@@ -20,6 +20,10 @@ The e-commerce schema model includes collections for products, categories, order
 
 The to-do app schema model includes a collection for tasks. Each task document includes fields for the task's title, description, due date, and status. This schema model is designed for a simple to-do list application.
 
+## Contributing 
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions such as adding new schema models, improving existing models, or providing examples of usage are welcome.
+
 ## Usage
 
 To use these schema models, simply import them into your MongoDB database using a tool like `mongoimport` or use them as a reference when designing your own schema models.
